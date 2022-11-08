@@ -1,5 +1,3 @@
-
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jun Shan.</h1>
 <h3 align="center"> A Data Analyst / AI Developer from Taiwan </h3>
 
