@@ -8,7 +8,7 @@
 - LinkedIn: [@Eddie Lai](https://www.linkedin.com/in/eddielai0803/)
 - Portaly: https://portaly.cc/eddielai83
 - Email: e4012826@gmail.com
-### Connect with me 😃
+
 
 <!--
 **Jun-ShanLai/Jun-ShanLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
