@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jun Shan.</h1>
-<h3 align="center"> A Data Analyst / AI Developer from Taiwan </h3>
-
+<h3 align="center"> A Data Analyst / AI Developer from Taiwan</h3>
+<h3 align="center"> 
+ I'm also an Intern of Career Consultant</h3>
 
 ### My Social Media 💬
 - LinkedIn: [@Eddie Lai](https://www.linkedin.com/in/eddielai0803/)
