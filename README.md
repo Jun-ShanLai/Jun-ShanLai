@@ -5,7 +5,7 @@
 ### My Social Media 💬
 - LinkedIn: [@Eddie Lai](https://www.linkedin.com/in/eddielai0803/)
 - Portaly: https://portaly.cc/eddielai83
-- Email: e4012826@gmail.com
+- Email: junshan.lai33@gmail.com
 
 
 <!--
