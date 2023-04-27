@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun Shan.</h1>
-<h3 align="center"> A Data Analyst / AI Developer / Intern of Career Consultant  from Taiwan</h3>
+<h3 align="center"> A Data Analyst / AI Developer /  Career Consultant  from Taiwan</h3>
 
 
 ### My Social Media 💬
